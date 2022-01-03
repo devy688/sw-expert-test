@@ -7,7 +7,7 @@ import java.io.InputStreamReader;
 public class Palindrome { // 1989. 초심자의 회문 검사
 
 	public static void main(String[] args) throws NumberFormatException, IOException {
-
+		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		int T = Integer.parseInt(br.readLine());
 
